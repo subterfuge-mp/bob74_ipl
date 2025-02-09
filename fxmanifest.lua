@@ -44,6 +44,7 @@ client_scripts {
 , "gta_online/house_hi_6.lua"
 , "gta_online/house_hi_7.lua"
 , "gta_online/house_hi_8.lua"
+, "gta_online/house_hi_9.lua"
 , "gta_online/house_mid_1.lua"
 , "gta_online/house_low_1.lua"
 
